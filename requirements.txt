@@ -1,0 +1,8 @@
+Flask-MongoEngine
+flask 
+flask-smorest
+marshmallow
+flask-dotenv
+MongoEngine
+Werkzeug==2.2.2
+flask-jwt-extended
